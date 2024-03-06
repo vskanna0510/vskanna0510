@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi there, I'm **V S Kanna**, a **Full Stack Developer** and a **Information Technology student** 🚀 from Chennai Institute of Technology.  Currently, I'm a Learner in Iot , Artificial Intelligence and Ethical Heacking  
+Hi there, I'm **V S Kanna**, a **Full Stack Developer** and a **Information Technology student** 🚀 from Chennai Institute of Technology.  Currently, I'm a Learner in Iot , Artificial Intelligence and Ethical Hacking  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
