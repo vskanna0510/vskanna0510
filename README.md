@@ -13,16 +13,16 @@
 <br />
 <br />
 
-Hi there, I'm **V S Kanna**, a **Full Stack Developer** and a **Information Technology student** 🚀 from Chennai Institute of Technology.  Currently, I'm a Learner in Iot , Artificial Intelligence and Ethical Hacking  
+Hi there, I'm **V S Kanna**, a **Full Stack Developer and also a AI Engineer** , **Currently Pursuing Master's Degree in CSE @SSN** and a **Information Technology Graduate** 🚀 from Chennai Institute of Technology.  Currently, I'm a Learner in Iot , Artificial Intelligence and Ethical Hacking  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a Student in Chennai Institute of Technology 
+- 💼 I’m currently a Master's Student in SSN College of Engineering
+- 👨🏽‍💻 I'm a BTech Information Technology Graduate from Chennai Institute of Technology 
 - 🌱 I’m currently learning Artificial Intelligence; 
 - 🤔 My interests are with Natural Language Processing,Machine Leaning, Full stack Developer;
-- 💼 I’m pursuing a Bachelor' of Technology Degree in Information Technology;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via vskanna2003@gmail.com to reach me.
 
